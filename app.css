@@ -140,7 +140,7 @@ html {
 }
 
 body {
-    background-color: #60a9ff;
+    background-color: #645CAA;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -178,7 +178,7 @@ body {
 
 .pricing-features {
     margin: 50px 0 25px;
-    color: #016ff9;
+    color: #A084CA;
 }
 
 .pricing-features-items {
@@ -195,16 +195,16 @@ body {
 }
 
 .price {
-    color: #016ff9;
+    color: #A084CA;
     display: block;
     font-size: 32px;
     font-weight: 700;
 }
 
 .trxlink {
-    border: 1px solid #9dd1ff;
+    border: 1px solid #EBC7E8;
     border-radius: 10px;
-    color: #348efe;
+    color: #BFACE0;
     padding: 15px 35px;
     display: inline-block;
     text-decoration: none;
@@ -214,17 +214,17 @@ body {
 
 .trxlink:hover,
 .trxlink:focus {
-    background-color: #e1f1ff;
+    background-color: #EBC7E8;
 }
 
 .trxlink.isFree {
-    background-color: #016ff9;
+    background-color: #A084CA;
     color: #e1f1ff;
 }
 
 .trxlink.isFree:hover,
 .trxlink.isFree:focus {
-    background-color: #269ff2;
+    background-color: #BFACE0;
 }
 
 @media (min-width: 900px) {
